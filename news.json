@@ -4,11 +4,5 @@
           "title": "No News",
           "date": "10/26/2025",
           "content": "There is no news... yet. Expect to see info about updates, events, and more here!"
-        },
-        {
-          "title": "No News 2",
-          "date": "10/26/2027",
-          "content": "There is no news.o see info about updates, events, and more here!"
-        },
-    ]
+        }
 }
