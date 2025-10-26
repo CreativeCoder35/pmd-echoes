@@ -1,0 +1,14 @@
+{
+    "news": [
+    {
+      "title": "New Dungeon Released!",
+      "date": "2025-10-26",
+      "content": "Explore the mysterious Murky Cave and earn new rewards."
+    },
+    {
+      "title": "Server Maintenance",
+      "date": "2025-10-28",
+      "content": "Servers will be offline for 1 hour for updates."
+    }
+  ]
+}
